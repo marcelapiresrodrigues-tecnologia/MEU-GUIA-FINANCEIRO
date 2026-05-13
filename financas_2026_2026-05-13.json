@@ -1,0 +1,11 @@
+{
+  "receitas": [],
+  "despesas": [],
+  "contas": {
+    "nubank": 0,
+    "bb": 0
+  },
+  "budgets": {},
+  "dashMonth": 0,
+  "budMonth": 0
+}
